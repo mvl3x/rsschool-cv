@@ -6,13 +6,9 @@
 **e-mail:** 4v.moiseenko@gmail.com  
 **telegram:** [@mvl3x](https://t.me/mvl3x)
 
----
-
 ## About:
 
 My last jobs were in software support and testing. But I always wanted to take part in software development. I have always liked computer technology and in particular the web, which has become an indispensable part of everyday life. I want to evolve as a frontend developer and work on real projects.
-
----
 
 ## Skills:
 
@@ -23,8 +19,6 @@ My last jobs were in software support and testing. But I always wanted to take p
 - Figma
 - DevTools
 - Postman
-
----
 
 ## Code example:
 
@@ -44,8 +38,6 @@ function findOdd(A) {
 };
 ```
 
----
-
 ## Courses:
 
 - code-basics.com
@@ -56,8 +48,6 @@ function findOdd(A) {
 * hexlet.io
   - [CLI Basics](https://ru.hexlet.io/courses/cli-basics)
   * [Introduction to Git](https://ru.hexlet.io/courses/intro_to_git)
-
----
 
 ## Languages:
 
