@@ -2,9 +2,15 @@
 
 ## Contact information:
 
+**phone:** +7 (961) 795-95-81  
+**e-mail:** 4v.moiseenko@gmail.com  
+**telegram:** [@mvl3x](https://t.me/mvl3x)
+
 ---
 
 ## About:
+
+My last jobs were in software support and testing. But I always wanted to take part in software development. I have always liked computer technology and in particular the web, which has become an indispensable part of everyday life. I want to evolve as a frontend developer and work on real projects.
 
 ---
 
